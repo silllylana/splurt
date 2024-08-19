@@ -7,3 +7,9 @@ background: black;
 font-family: ms gothic;
 color: white;
 }
+
+.epic{
+position: fixed;
+bottom: 0px;
+right: 0px;
+}
