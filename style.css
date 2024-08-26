@@ -19,3 +19,12 @@ position: fixed;
 bottom: 15px;
 right: 5px;
 }
+
+.c1{
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-areas: "header header header" "left mid right" "footer footer footer";
+  justify-content: center;
+  width: 750px;
+  grid-gap: 0px;
+}
