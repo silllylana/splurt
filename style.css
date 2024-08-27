@@ -31,26 +31,29 @@ grid-gap: 0px;
 
 .mid{
 width: 750px;
+height: 750px;
 grid-area: mid;
 border: solid 1px;
-border-color: black;
-border-radius: 10px
+border-color: white;
+border-radius: 10px;
 }
 
 .left{
 width: 120px;
+height: 750px;
 grid-area: left;
 border: solid 1px;
-border-color: black;
-border-radius: 10px
+border-color: white;
+border-radius: 10px;
 }
 
 .right{
 width: 120px;
+height: 750px;
 grid-area: right;
 border: solid 1px;
-border-color: black;
-border-radius: 10px
+border-color: white;
+border-radius: 10px;
 }
 
 .marq{
