@@ -17,7 +17,7 @@ right: 0px;
 .kaodiv{
 position: fixed;
 bottom: 75px;
-right: 5px;
+left: 5px;
 }
 
 .c1{
@@ -27,4 +27,41 @@ grid-template-areas: "header header header" "left mid right" "footer footer foot
 justify-content: center;
 width: 750px;
 grid-gap: 0px;
+}
+
+.mid{
+width: 750px;
+grid-area: mid;
+border: solid 1px;
+border-color: black;
+border-radius: 10px
+}
+
+.left{
+width: 120px;
+grid-area: left;
+border: solid 1px;
+border-color: black;
+border-radius: 10px
+}
+
+.right{
+width: 120px;
+grid-area: right;
+border: solid 1px;
+border-color: black;
+border-radius: 10px
+}
+
+.marq{
+width: 1000px
+grid-area: header;
+}
+
+.blinkie{
+width: 50px;
+}
+
+.stamp{
+width: 75px;
 }
