@@ -28,3 +28,9 @@ right: 5px;
   width: 750px;
   grid-gap: 0px;
 }
+
+.kaodiv{
+position: fixed;
+bottom: 25px;
+left: 5px;
+}
