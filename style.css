@@ -8,6 +8,18 @@ font-family: ms gothic;
 color: white;
 }
 
+h1{
+font-size: 25px;
+}
+
+p{
+font-size: 15px;
+}
+
+h3{
+font-size: 20px;
+}
+
 .epic{
 position: fixed;
 bottom: 0px;
